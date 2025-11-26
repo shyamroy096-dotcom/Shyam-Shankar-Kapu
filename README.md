@@ -16,7 +16,7 @@
 
 📫 **Reach Me**
 - Email: shyamroy096@gmail.com  
-- LinkedIn: www.linkedin.com/in/kapu-shyam-shankar-57949627b/  
+- LinkedIn: [www.linkedin.com/in/shyam-shankar-kapu-57949627b/]
 - GitHub: github.com/shyamroy096-dotcom  
 
 🔥 I love building full-stack applications and improving my backend development skills.  
